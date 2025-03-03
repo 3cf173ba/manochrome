@@ -145,6 +145,10 @@ ul li a:hover, ul li a:active, u li a:focus {
 }
 /*** #links-wrapper ***********************************************************/
 
+#links-wrapper {
+  padding-bottom: 34px;
+}
+
 #links-wrapper h2 {
   font-size: initial;
   margin: 0 0 0 1rem;;
